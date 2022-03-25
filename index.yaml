@@ -15,6 +15,7 @@ entries:
     digest: aa2a40a80850a9591275bc34424275cbc513c98d0f5a0b9158c5290381e73b70
     name: pages
     type: application
-    urls: https://dellcloud.github.io/pages-1.0.0.tgz
+    urls: 
+    - pages-1.0.0.tgz
     version: 1.0.0
 generated: "2022-03-25T11:08:58.154113917Z"
